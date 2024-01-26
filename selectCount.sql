@@ -1,0 +1,1 @@
+select distinct count(id_service) as nombre from concerner;

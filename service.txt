@@ -1,0 +1,10 @@
+Service"serv1";"Transfert d'argent mobile"$
+Service"serv2";"Coiffure homme"$
+Service"serv3";"Service traiteur"$
+Service"serv4";"Haute couture"$
+Service"serv5";"Moulin a moudre le maize"$
+Service"serv6";"Depot de boisson alcoolique"$
+Service"serv7";"Transfert de credit de communication"$
+Service"serv8";"Cuisine senegalaise"$
+Service"serv9";"Reparation de telephone"$
+Service"serv10";"Photopie de document"$

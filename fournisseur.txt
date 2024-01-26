@@ -1,0 +1,10 @@
+Fournisseur"sup1";"John Doe";"672234091"$
+Fournisseur"sup2";"Mary Jane";"696234098"$
+Fournisseur"sup3";"Stan Smith";"622234218"$
+Fournisseur"sup4";"John Wolker";"692122098"$
+Fournisseur"sup5";"Micheal Jordan";"671184033"$
+Fournisseur"sup6";"Dom Perignon";"672234043"$
+Fournisseur"sup7";"Brandy Cliff";"652222098"$
+Fournisseur"sup8";"Bill Gate";"665434035"$
+Fournisseur"sup9";"Samira Ben";"653546908"$
+Fournisseur"sup10";"Mintoumba";"672312340"$

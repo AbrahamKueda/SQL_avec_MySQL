@@ -1,0 +1,10 @@
+Recherche"rch1";"us9";"Transfert d'argent MTN mobile money"$
+Recherche"rch2";"us10";"Impression de document"$
+Recherche"rch3";"us3";"Service traiteur"$
+Recherche"rch4";"us8";"Pharmacie"$
+Recherche"rch5";"us2";"Cuisine senegalaise"$
+Recherche"rch6";"us1";"Haute couture"$
+Recherche"rch7";"us7";"Coiffure homme et enfants"$
+Recherche"rch8";"us4";"Transfert de credit de communication"$
+Recherche"rch9";"us2";"Coiffure homme"$
+Recherche"rch10";"us5";"Photocopie de document"$
